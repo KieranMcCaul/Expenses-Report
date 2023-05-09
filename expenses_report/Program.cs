@@ -10,6 +10,7 @@ class Program
         //-----Create Staff Names, Menus and Objects-----//
         string[,] sNames = { { "Kieran", "1001" }, { "Emily", "1002" }, { "Axel", "1003" }, { "Toby", "1004" } };
         int iUserSelection = 0;
+
         Company Office = new Company();
         StaffMember Staff = new StaffMember();
         Expenses Expense = new Expenses();
@@ -17,7 +18,7 @@ class Program
 
 
         Menu Menu1 = new Menu(
-            "----Please select from the following----",
+            "----Please select the staff member----",
             sNames[0, 0],
             sNames[1, 0],
             sNames[2, 0],
@@ -81,7 +82,7 @@ class Program
                 Console.WriteLine($"----Hi {Staff.sName}---- \n " +
                     $"Please get ready the followeing: \n " +
                     $"Total trip costs and other travel expenses \n" +
-                    $"----Press enter to continue----");
+                    $"----Press any key to continue----");
                 Console.ReadLine();
 
 
@@ -105,10 +106,10 @@ class Program
                 iUserSelection = 0;
                 Console.Clear();
 
-                Staff.iiTripCount = Trip.sName.Count;
+                Staff.iTripCount = Trip.sName.Count;
                 Staff.dTripCosts = Trip.dAmount.Sum();
                 Staff.dTripExp = Expense.dAmount.Sum();
-                Staff.dExpRefund = CalcRefund(Staff.dTripCosts, Staff.dTripExp, Staff.iiTripCount);
+                Staff.dExpRefund = CalcRefund(Staff.dTripCosts, Staff.dTripExp, Staff.iTripCount);
                 Office.dTotalCosts = (Staff.dTripCosts + Staff.dTripExp);
                 Office.dTaxRebate = Math.Round(TaxCalc(Office.dTotalCosts), 2);
                 //----Travel and Expenses input and Assignment----//
@@ -118,7 +119,7 @@ class Program
                 Console.WriteLine(
                     $"Staff Member: {Staff.sName} \n" +
                     $"Staff Number: {Staff.iStaffNo} \n" +
-                    $"Number Of Trips: {Staff.iiTripCount} \n" +
+                    $"Number Of Trips: {Staff.iTripCount} \n" +
                     $"Travel Costs: ${Staff.dTripCosts} \n" +
                     $"Other Travel Expenses: ${Math.Round(Staff.dTripExp, 2)} \n"
                     );
@@ -149,10 +150,11 @@ class Program
             Console.Clear();
 
         } while (iUserSelection != 1);
+
         StaffMember.StreamWrite(
             Staff.sName,
             Staff.iStaffNo,
-            Staff.iiTripCount,
+            Staff.iTripCount,
             Staff.dTripCosts,
             Staff.dTripExp,
             Staff.dExpRefund,
