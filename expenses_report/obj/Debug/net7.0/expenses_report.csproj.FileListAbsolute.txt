@@ -1,0 +1,15 @@
+/Users/kieran/Projects/expenses_report/expenses_report/bin/Debug/net7.0/expenses_report
+/Users/kieran/Projects/expenses_report/expenses_report/bin/Debug/net7.0/expenses_report.deps.json
+/Users/kieran/Projects/expenses_report/expenses_report/bin/Debug/net7.0/expenses_report.runtimeconfig.json
+/Users/kieran/Projects/expenses_report/expenses_report/bin/Debug/net7.0/expenses_report.dll
+/Users/kieran/Projects/expenses_report/expenses_report/bin/Debug/net7.0/expenses_report.pdb
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.csproj.AssemblyReference.cache
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.AssemblyInfoInputs.cache
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.AssemblyInfo.cs
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.csproj.CoreCompileInputs.cache
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.dll
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/refint/expenses_report.dll
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.pdb
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/expenses_report.genruntimeconfig.cache
+/Users/kieran/Projects/expenses_report/expenses_report/obj/Debug/net7.0/ref/expenses_report.dll
