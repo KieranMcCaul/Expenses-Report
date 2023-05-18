@@ -9,11 +9,11 @@ User Input
 
 2 User ready, ANY KEY OR ENTER
 
-3 Trip amounts INTEGER
+3 Trip amounts, INTEGER
 
 4 Trip costs, DOUBLE
 
-5 Expense amounts INTEGER
+5 Expense amounts, INTEGER
 
 4 Expense costs, DOUBLE
 
