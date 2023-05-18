@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\expenses_report",
+    "\\expenses_report\\bin\\Debug",
+    "\\expenses_report\\bin\\Release",
+    "\\expenses_report\\bin\\Release\\net7.0",
+    "\\expenses_report\\obj\\Debug"
   ],
+  "SelectedNode": "\\expenses_report\\StaffMember.cs",
   "PreviewInSolutionExplorer": false
 }
