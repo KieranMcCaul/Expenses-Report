@@ -1,0 +1,11 @@
+----Staff----
+Staff Member: Kieran 
+Staff Number:  $1001 
+Number of Trips: $1 
+Travel Costs: $400 
+Other Trip Expenses: $1 
+Expenses Refunded: $401 of $401
+----Company----
+Average Expense: $1 
+Largest Expense: $1 
+Company Tax Rebate at 20%: $80.2 of $401
