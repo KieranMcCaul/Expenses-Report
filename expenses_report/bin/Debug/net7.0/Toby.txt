@@ -1,0 +1,11 @@
+----Staff----
+Staff Member: Toby 
+Staff Number:  $1004 
+Number of Trips: $1 
+Travel Costs: $500 
+Other Trip Expenses: $499 
+Expenses Refunded: $550 of $999
+----Company----
+Average Expense: $124.75 
+Largest Expense: $249 
+Company Tax Rebate at 20%: $199.8 of $999
