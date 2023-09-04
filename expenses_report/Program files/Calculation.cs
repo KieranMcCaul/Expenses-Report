@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace expenses_report
 {
     static class Calculation
@@ -14,13 +14,13 @@ namespace expenses_report
                 dTravelExp = (iRefund * iTripCount);
                 dResult = (dTravelCosts + dTravelExp);
 
-                return dResult;
+                return Math.Round(dResult,2);
             }
 
             else
             {
                 dResult = (dTravelCosts + dTravelExp);
-                return dResult;
+                return Math.Round(dResult,2);
             }
         }
         //--------//
@@ -31,7 +31,7 @@ namespace expenses_report
         {
 
             double TaxRebate = (preTaxTotal * (Company.Tax));
-            return TaxRebate;
+            return Math.Round(TaxRebate,2);
 
         }
         //--------//
