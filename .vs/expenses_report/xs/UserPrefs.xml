@@ -10,7 +10,9 @@
         <State name="__root__">
           <Node name="expenses_report" expanded="True">
             <Node name="expenses_report" expanded="True">
-              <Node name="Program files" expanded="True" />
+              <Node name="Program files" expanded="True">
+                <Node name="Calculation.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
