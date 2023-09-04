@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kieran/Downloads/expenses-report-main/expenses_report/expenses_report.csproj": {}
+    "/Users/kieran/Desktop/expenses_report/Expenses-Report/expenses-report/expenses_report/expenses_report.csproj": {}
   },
   "projects": {
-    "/Users/kieran/Downloads/expenses-report-main/expenses_report/expenses_report.csproj": {
+    "/Users/kieran/Desktop/expenses_report/Expenses-Report/expenses-report/expenses_report/expenses_report.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kieran/Downloads/expenses-report-main/expenses_report/expenses_report.csproj",
+        "projectUniqueName": "/Users/kieran/Desktop/expenses_report/Expenses-Report/expenses-report/expenses_report/expenses_report.csproj",
         "projectName": "expenses_report",
-        "projectPath": "/Users/kieran/Downloads/expenses-report-main/expenses_report/expenses_report.csproj",
+        "projectPath": "/Users/kieran/Desktop/expenses_report/Expenses-Report/expenses-report/expenses_report/expenses_report.csproj",
         "packagesPath": "/Users/kieran/.nuget/packages/",
-        "outputPath": "/Users/kieran/Downloads/expenses-report-main/expenses_report/obj/",
+        "outputPath": "/Users/kieran/Desktop/expenses_report/Expenses-Report/expenses-report/expenses_report/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kieran/.nuget/NuGet/NuGet.Config"

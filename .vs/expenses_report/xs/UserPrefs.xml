@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E704AEDD-ED8E-408F-82F1-91E72D95349C}|Default">
+  <MonoDevelop.Ide.ItemProperties.expenses__report PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="expenses_report/Program files/Calculation.cs">
+    <Files>
+      <File FileName="expenses_report/Program files/Calculation.cs" Line="14" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="expenses_report" expanded="True">
+            <Node name="expenses_report" expanded="True">
+              <Node name="Program files" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
